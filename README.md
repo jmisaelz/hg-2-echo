@@ -1,20 +1,11 @@
-# Tipo de usuario
-- [ ] Alfa
-- [ ] Bravo 
-- [ ] Charlie
-- [ ] Delta
-- [ ] Echo
+# echo
 
-# Tecnología
-- [ ] HTML
-- [ ] Json
-- [ ] Archivo plano (.txt)
-- [ ] Javascript
-- [ ] Markdown / .md 
 
-# Seleccione el tipo de actividad
-- [ ] Feature
-- [ ] Hotfix
-- [ ] Refactor
-- [ ] Performance
-- [ ] Testing
+# Nombre	Ubicación
+____________________
+
+# Adrián -->	alfa
+# Andrés -->	bravo
+# Misael -->	charlie
+# Rigo -->	delta
+# Andrés V -->	echo
